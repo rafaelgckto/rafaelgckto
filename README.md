@@ -1,6 +1,6 @@
 ### Olá, sou Rafael 👋
 
-Texto...  🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
+ 🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Cecatto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelggcecatto/)](https://www.linkedin.com/in/rafaelggcecatto/)
