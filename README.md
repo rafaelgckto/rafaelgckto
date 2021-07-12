@@ -1,3 +1,5 @@
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rafaelgckto/rafaelgckto/master)
+
 ### Olá, sou Rafael 👋
 
 🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
