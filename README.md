@@ -1,39 +1,33 @@
 ### Olá, sou Rafael 👋
 
- 🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
+🏡 Brasileiro 🌎 São Paulo ✈️ Brasil
 
-### Encontre-me por aqui 🌎
+### 📫 Como chegar até mim 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Cecatto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelggcecatto/)](https://www.linkedin.com/in/rafaelggcecatto/)
-[![Gamil Badge](https://img.shields.io/badge/-rafael.gcecatto@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:rafael.gcecatto@gmail.com)](mailto:rafael.gcecatto@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rafael.gcecatto@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:rafael.gcecatto@gmail.com)](mailto:rafael.gcecatto@gmail.com)
 
-#### Linguagem e Ferramentas
-![HTML5 Bagde](https://img.shields.io/badge/-HTML5-e34f26?style=plastic&logo=html5&logoColor=white)
-![CSS3 Bagde](https://img.shields.io/badge/-CSS3-1572b6?style=plastic&logo=css3&logoColor=white)
-![JavaScript Bagde](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=white)
-![React Bagde](https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white)
-<br />
-
-![C_Sharp Bagde](https://img.shields.io/badge/-C_Sharp-239120?style=plastic&logo=csharp&logoColor=white)
-![Java Bagde](https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white)
-<br />
-
-![Microsoft_SQL_Server Bagde](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
-![MySQL Bagde](https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=mysql&logoColor=white)
-![MongoDB Bagde](https://img.shields.io/badge/-MongoDB-47a248?style=plastic&logo=mongodb&logoColor=white)
-<br />
-
-![Git Bagde](https://img.shields.io/badge/-Git-f05032?style=plastic&logo=git&logoColor=white)
-![GitHub Bagde](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white)
+🌱 Atualmente estou aprendendo ... <br />
+📚 Estudando ... <br />
 
 <!--
 ### Spotify🎧
 
 [<img src="" alt="rafaelgckto Spotify Playing" width="150px" />]()
-
-
-<!--
-📚 Estudando  <br />
 -->
+
+#### Habilidades e Experiência
+* ![HTML5 Bagde](https://img.shields.io/badge/-HTML5-e34f26?style=plastic&logo=html5&logoColor=white)
+![CSS3 Bagde](https://img.shields.io/badge/-CSS3-1572b6?style=plastic&logo=css3&logoColor=white)
+![JavaScript Bagde](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=white)
+![React Bagde](https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white)
+* ![C_Sharp Bagde](https://img.shields.io/badge/-C_Sharp-239120?style=plastic&logo=csharp&logoColor=white)
+![Java Bagde](https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white)
+* ![Unity Bagde](https://img.shields.io/badge/-Unity-000000?style=plastic&logo=unity&logoColor=white)
+* ![Microsoft_SQL_Server Bagde](https://img.shields.io/badge/-Microsoft_SQL_Server-cc2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
+![MySQL Bagde](https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=mysql&logoColor=white)
+![MongoDB Bagde](https://img.shields.io/badge/-MongoDB-47a248?style=plastic&logo=mongodb&logoColor=white)
+* ![Git Bagde](https://img.shields.io/badge/-Git-f05032?style=plastic&logo=git&logoColor=white)
+![GitHub Bagde](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white)
 
 Obrigado pelo visita!
 
